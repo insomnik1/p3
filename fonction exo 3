@@ -1,0 +1,60 @@
+Variable :
+
+2 joueurs
+attaques
+
+Fonction :
+
+
+choisir attaque
+
+attaque
+
+match ou pas
+cpu choisit attaque
+cpu attaque
+
+affichage nom
+affichage pv
+affichage attaque
+
+
+gestion des dommages et santé
+
+fin de combat
+
+affichage winner
+
+message d info + guide
+
+
+Tour par tour
+
+// 2eme idee
+
+choisir un player
+
+definir choix attack player
+
+definir choix attack bot
+
+
+
+
+
+
+
+
+
+
+
+
+Function choix player : indique le joueur devant jouer
+
+function choix atk  : choisi l attaque **
+
+function atk : chance de réussite + baisse pv
+
+Function heal : chance de reussite + augmentation pv
+
+function fin de parti pv à 0
