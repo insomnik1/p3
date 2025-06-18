@@ -77,7 +77,7 @@ function attaquePOne(attack, target, attaquant) {
             console.log(target.namePlayer + " a été touché par " + attack.nameAtk + " ses pv restants sont " + target.pv);
         }
     } else {
-        console.log(attaquant.namePlayer + " a essayé " + attack.nameAtk + " Vous vous emmelez les pinceaux, attaque ratée !");
+        console.log(attaquant.namePlayer + " a essayé " + attack.nameAtk + " ; " + attaquant.namePlayer + " s'est emmelé les pinceaux, attaque ratée !");
     }
     console.log("A l'issue de ce tour, les pv restants de :  " + target.namePlayer + " sont de : " + target.pv);
 
